@@ -1,9 +1,13 @@
 Hiya!!
 
 👋 Hi, I’m Jenna Alise
+
 👀 I’m interested in programming and tech related things
+
 🌱 I’m currently learning html
+
 💞️ I’m looking to collaborate on html projects
+
 
 ### My Github Stats
 
